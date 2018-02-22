@@ -11,6 +11,6 @@ Some people are wearing glasses in some of their 10 photos, like the guy picture
 
 Some people are wearing glasses in all of their 10 photos. 
 
-And some people, yup... you guesses it, are not wearing glasses in any of their photos.
+And some people, yup... you guessed it, are not wearing glasses in any of their photos.
 
 The goal is to get functional and sequential versions of the CNN and compare with a SVM. 
